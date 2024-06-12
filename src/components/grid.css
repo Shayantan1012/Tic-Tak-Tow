@@ -1,0 +1,30 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width:250px;
+    height: 250px;
+    justify-content: space-around;
+    position: absolute;
+    left: 300px;
+    top:5px
+}
+.turn-highlight{
+    color:black;
+    font-style:oblique;
+}
+.reset{
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-style: oblique;
+    flex-basis: 10%;
+    height: 20%;
+    width: 20%;
+    position: relative;
+    top: 5px;
+    background-color: azure;
+}
+
+.turn-hilight{
+    font-style: italic;
+}

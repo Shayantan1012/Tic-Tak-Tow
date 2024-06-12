@@ -1,0 +1,12 @@
+.Card{
+    color:blueviolet;
+    padding: 2px;
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 60px;
+    height: 60px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
